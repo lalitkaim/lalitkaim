@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit-kaim&label=Profile%20views&color=0e75b6&style=flat" alt="lalit-kaim" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/lalit-kaim/Portfolio](https://github.com/lalit-kaim/Portfolio)
+- 👨‍💻 All of my projects are available at [https://lalit-kaim.github.io/Portfolio](https://lalit-kaim.github.io/Portfolio)
 
 - 📝 I regularly write articles on [https://lalitkaim.blogspot.com/](https://lalitkaim.blogspot.com/)
 
