@@ -28,7 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
-![cover](https://github.com/lalitkaim/lalitkaim/assets/29949359/759bfeeb-d0f7-4605-8ea8-c0e5228f7aec)
+
+<img src="https://github.com/lalitkaim/lalitkaim/assets/29949359/759bfeeb-d0f7-4605-8ea8-c0e5228f7aec"/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkaim&show_icons=true&locale=en&layout=compact" alt="lalitkaim" /></p>
 
