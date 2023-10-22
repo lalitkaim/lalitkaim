@@ -4,17 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit-kaim&label=Profile%20views&color=0e75b6&style=flat" alt="lalit-kaim" /> </p>
 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Enginner</strong> at [Qualcomm](qualcomm.com).
-- 📋 I've previously worked as an <strong>SDE</strong> at [Cognam](cognam.com) and as a Software Engineer <strong>Intern</strong> at [Intel](intel.com)
-- 🧭 I love exploring and working both in frontend and backend and also create few amazing projects.
-- 📫 How to reach me: Check social links below.
-- 👨‍💻 Check out portfolio [lalitkaim](lalitkaim.com)
+- 💼 I’m currently working as a <strong>Software Enginner</strong> at [Qualcomm](https://qualcomm.com/).
+- 📋 I've previously worked as an <strong>SDE</strong> at [Cognam](https://www.cognam.com/) and as a Software Engineer <strong>Intern</strong> at [Intel](https://www.intel.com/)
+- 🧭 I love exploring and working both in frontend and backend.
+- 🧑‍💻 Solved over <strong>800+</strong> DSA problems across various platforms.
+- 🔗 Connect with me at [LeetCode](https://leetcode.com/lalitkaim), [GFG](https://auth.geeksforgeeks.org/user/lalitkaim), [HackerRank](https://www.hackerrank.com/profile/lalitkaim)
+- 👨‍💻 Portfolio @ [lalitkaim](lalitkaim.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/lalitkaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-kaim" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/lalitkaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalitkaim" height="30" width="40" /></a>
-
+  <a href="https://linkedin.com/in/lalitkaim" target="blank"><img align="center" src="https://github.com/lalitkaim/lalitkaim/assets/29949359/acd67ff3-e66f-475d-8163-594b27addfae" alt="lalit-kaim" height="30" width="40" /></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools 
@@ -30,7 +29,8 @@
   <img src="https://github.com/lalitkaim/lalitkaim/assets/29949359/d33c5842-0637-4192-85c8-d115a032a736" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkaim&show_icons=true&locale=en&layout=compact" alt="lalitkaim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkaim&show_icons=true&locale=en" alt="lalitkaim" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkaim&show_icons=true&locale=en&layout=compact" alt="lalitkaim" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkaim&show_icons=true&locale=en" alt="lalitkaim" /></p>
+</div>
 
