@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit-kaim&label=Profile%20views&color=0e75b6&style=flat" alt="lalit-kaim" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://lalit-kaim.github.io/Portfolio](https://lalit-kaim.github.io/Portfolio)
-
+- 👩🏻‍💻 Pronouns: He/Him
+- 💼 I’m currently working as a <strong>Software Enginner</strong> at [Qualcomm](qualcomm.com).
+- 📋 I've previously worked as an SDE at [Cognam](cognam.com) and as a Software Engineer <strong>Intern</strong> at [Intel](intel.com)
+- 🧭 I love exploring and working both in frontend and backend and also create few amazing projects.
+- 📫 How to reach me: Check social links below.
+- 👨‍💻 All of my projects are available at [lalitkaim](lalitkaim.com)
 - 📝 I regularly write articles on [https://lalitkaim.blogspot.com/](https://lalitkaim.blogspot.com/)
-
-- 📫 How to reach me **kaim.lalit1234@gmail.com**
-
-- ⚡ Fun fact **No-one Knows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
