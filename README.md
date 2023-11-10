@@ -9,7 +9,7 @@
 - 🧭 I love exploring and working both in frontend and backend.
 - 🧑‍💻 Solved over <strong>800+</strong> DSA problems across various platforms.
 - 🔗 Connect with me at [LeetCode](https://leetcode.com/lalitkaim), [GFG](https://auth.geeksforgeeks.org/user/lalitkaim), [HackerRank](https://www.hackerrank.com/profile/lalitkaim)
-- 👨‍💻 Portfolio @ [lalitkaim](lalitkaim.com)
+- 👨‍💻 Portfolio @ [lalitkaim](https://www.lalitkaim.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
